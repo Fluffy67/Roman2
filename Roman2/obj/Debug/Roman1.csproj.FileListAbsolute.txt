@@ -1,0 +1,50 @@
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\bin\Debug\Roman1.exe.config
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\bin\Debug\Roman1.exe
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\bin\Debug\Roman1.pdb
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.csproj.AssemblyReference.cache
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.Authorization.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.Home.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.Properties.Resources.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.csproj.GenerateResource.cache
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.csproj.CoreCompileInputs.cache
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.exe
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.pdb
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.Registration.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\bin\Debug\EntityFramework.dll
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\bin\Debug\EntityFramework.xml
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.csproj.CopyComplete
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.Students.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.Dekanat.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1\Roman1\obj\Debug\Roman1.Zaprosu.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\bin\Debug\Roman1.exe.config
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\bin\Debug\Roman1.exe
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\bin\Debug\Roman1.pdb
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\bin\Debug\EntityFramework.dll
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\bin\Debug\EntityFramework.xml
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.csproj.AssemblyReference.cache
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.Authorization.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.Dekanat.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.Home.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.Properties.Resources.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.Registration.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.Students.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.Zaprosu.resources
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.csproj.GenerateResource.cache
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.csproj.CoreCompileInputs.cache
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.csproj.CopyComplete
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.exe
+C:\Users\Sardor\Desktop\+mONEY\Роман\Roman1 - 2\Roman1\obj\Debug\Roman1.pdb
